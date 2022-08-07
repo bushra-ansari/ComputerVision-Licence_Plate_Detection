@@ -1,5 +1,7 @@
 # ComputerVision-Licence_Plate_Detection
-This project has been done by using OpenCV package in Python. The objective is to train the computer to read the license plates whenever the computer camera encounters a vehicle and store the pictures of only the license plate to keep a track of all the vehicles.  It involves the concept of Image Recognition. 
+This project has been done by using OpenCV package in Python. The objective is to train the computer to detect the license plates whenever the computer camera encounters a vehicle and store the pictures of only the license plate to keep a track of all the vehicles. It involves the concept of Image Detection. 
+An image or a frame of the video sequence is passed to the detection algorithm from a camera or an already stored file, which detects the license plate and returns the bounding box location of that plate. 
+
 
 Automatic Licence Plate Recognition(ALPR) is a very advanced and intelligent system that has various real-life use cases, without any human intervention such as - 
 
